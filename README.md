@@ -1,8 +1,3 @@
-Got it — you want the **entire README.md in ONE SINGLE code block**, no splitting, no interruptions, no breaks.
-
-Here it is — **ONE cell, full README, clean, professional, copy-paste ready.**
-
----
 
 ```markdown
 # 🚀 Bondify UI — React + TypeScript + Vite + Tailwind CSS
