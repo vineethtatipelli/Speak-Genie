@@ -36,3 +36,6 @@ public/
   assets/           → Local images used in the UI
 
 This structure keeps the project modular, readable, and easy to maintain while supporting responsive UI development.
+
+## 🌐 Live Demo
+https://speak-genie-xi.vercel.app
