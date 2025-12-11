@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic fonts and resets */
+:root {
+  --bg: #ffffff;
+}
+
+/* small helpers for the layout */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  @apply bg-white font-sans text-gray-700;
+}
+
+/* custom classes used for the "pill" look */
+.card-rounded {
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(16,185,129,0.06);
+}
